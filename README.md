@@ -17,10 +17,10 @@ O objetivo deste site é mostrar de forma objetiva quem sou, o que faço e como 
 ![Screenshot do site](/VitrinePessoal/src/image/PrintdoSite.png)
 
 ## 🌐 Acesse o site online
-[https://seusite.com](https://seusite.com)
+[https://seusite.com](https://ramossd.com)
 
 ## 📬 Contato
-- Email: rodivanramos@gmail.com
+- Email: contato.ramossd@gmail.com
 - WhatsApp: [Clique aqui para conversar](https://wa.me/5541999160389)
 
 ---
