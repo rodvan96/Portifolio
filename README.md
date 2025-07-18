@@ -17,7 +17,7 @@ O objetivo deste site é mostrar de forma objetiva quem sou, o que faço e como 
 ![Screenshot do site](/VitrinePessoal/src/image/PrintdoSite.png)
 
 ## 🌐 Acesse o site online
-[https://seusite.com](https://ramossd.com)
+[https://ramossd.com](https://ramossd.com)
 
 ## 📬 Contato
 - Email: contato.ramossd@gmail.com
