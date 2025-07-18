@@ -1,0 +1,128 @@
+@media (min-width: 1080px) {
+    body {
+        font-size: 22.4px;
+        line-height: 2.24;
+    }
+
+    header {
+        padding: 4.375rem;
+    }
+
+    h3 {
+        font-size: 1.75rem;
+    }
+
+    p,
+    li {
+        font-size: 1.138rem;
+    }
+
+    .apresentacao {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 1.75rem;
+        margin-bottom: 1.75rem;
+    }
+
+    #img-apresentacao {
+        width: 7.875rem;
+        height: 7.875rem;
+    }
+
+    .perfil {
+        width: 17.24rem;
+        text-align: left;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .perfil h1 {
+        font-size: 1.75rem;
+    }
+
+    .txt-apresentacao h2 {
+        font-size: 2.188rem;
+    }
+
+    #cta-apresentacao {
+        gap: 0.875rem;
+    }
+
+    #cta-apresentacao img {
+        width: 4.375rem;
+    }
+
+    .corpo {
+        padding-top: 1.75rem;
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+
+    #lista-servicos {
+        padding-top: 0.875rem;
+        padding-bottom: 3.5rem;
+        padding-left: 1.75rem;
+        line-height: 2.1rem;
+    }
+
+    .img-projeto {
+        width: 13.125rem;
+        height: 13.125rem;
+        margin-bottom: 0.875rem;
+    }
+
+    .projeto {
+        gap: 4.375rem;
+    }
+
+    .cta-projeto {
+        margin-top: 1.75rem;
+    }
+
+    .cta-button {
+        padding: 14px 28px;
+        margin-bottom: 0.875rem;
+        font-size: 1.4rem;
+        border-radius: 1.4rem;
+    }
+
+    #sobre-mim h3 {
+        margin-top: 2.625rem;
+        margin-bottom: 0.875rem;
+    }
+
+    .txt-sobre-mim img {
+        width: 7.875rem;
+    }
+
+    .txt-sobre-mim {
+        gap: 1.75rem;
+        margin-bottom: 3.5rem;
+    }
+
+    .cta-button-whatsapp {
+        padding: 14px 28px;
+        margin-bottom: 3.5rem;
+        font-size: 1.4rem;
+    }
+
+    footer {
+        padding: 28px;
+        font-size: 1.05rem;
+    }
+
+    .container-redes-sociais img {
+        width: 4.375rem;
+        margin: 3.5rem 2.188rem;
+    }
+
+    .container-redes-sociais {
+        gap: 4.375rem;
+    }
+
+    #autor {
+        margin-bottom: 1.75rem;
+    }
+}
